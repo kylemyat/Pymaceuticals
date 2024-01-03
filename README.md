@@ -1,6 +1,14 @@
 # Pymaceuticals
 
 ---
+### Purpose
+Analyze results of a study conducted on mice comparing the performance of various drugs on tumor growth.
+
+### Description
+Laguage used: Python
+I imported data of mice identification from the Mouse_metadata.csv and data of study results from Study_results.csv.
+
+I then merge the imported data into a single dataframe and clean the data using loc and iloc before finding the summary statistics.
 
 ### Analysis
 
